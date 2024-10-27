@@ -1,0 +1,15 @@
+# Entorno virtual
+venv/
+*.egg-info/
+__pycache__/
+*.py[cod]
+
+# Archivos de configuración
+*.env
+
+# Archivos de base de datos
+*.sqlite3
+*.db
+
+# Otros
+*.log
